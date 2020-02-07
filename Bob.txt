@@ -1,1 +1,3 @@
 Hi! I'm Bob. I've been here for a while now.
+
+the end of line is $ (shif + 4)
