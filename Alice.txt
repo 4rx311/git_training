@@ -3,3 +3,4 @@ Hi! I'm Bob. I'm new here.
 some text
 changes
 more changes
+its time for stashing
